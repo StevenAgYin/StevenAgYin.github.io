@@ -1,5 +1,11 @@
 1. hello
 2. world
+<<<<<<< HEAD
 3. abc
 4. def
 5.clear
+=======
+3. luke
+4. abc
+5. def
+>>>>>>> 1943f697ea16153f4af42115ec7f3d9d789b12c0
